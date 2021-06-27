@@ -1,6 +1,6 @@
 package com.example.shape;
 
-public class ShapeFactory {
+public class ShapeFactory{
 
     public Shape getShape(String shapeType){
         if(shapeType == null){
