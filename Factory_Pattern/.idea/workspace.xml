@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="538afb48-8046-4a8a-a8e6-56d9721de001" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Strategy_Pattern/src/com/example/strategy/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy_Pattern/src/com/example/strategy/OperationAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy_Pattern/src/com/example/strategy/OperationMult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy_Pattern/src/com/example/strategy/OperationSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy_Pattern/src/com/example/strategy/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy_Pattern/src/com/example/strategy/StrategyPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/AdapterPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/AdvancedMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/MediaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/Mp4Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/VlcPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Singleton_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton_Pattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strategy_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy_Pattern/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
