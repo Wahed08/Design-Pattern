@@ -14,5 +14,8 @@ public class FactoryPatternDemo {
 
         Shape shape3 = shapeFactory.getShape("SQUARE");
         shape3.draw();
+
+        Shape shape4 = shapeFactory.getShape("TRIANGLE");
+        shape4.draw();
     }
 }

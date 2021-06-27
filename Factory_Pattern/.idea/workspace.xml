@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="538afb48-8046-4a8a-a8e6-56d9721de001" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/AdapterPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/AdvancedMediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/MediaAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/Mp4Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter_Pattern(Structural)/src/com/example/adapter/VlcPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Singleton_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton_Pattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Strategy_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy_Pattern/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/shape/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/shape/FactoryPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/shape/FactoryPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/shape/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/shape/ShapeFactory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,13 +30,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/shape/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="147">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/shape/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
@@ -64,8 +57,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/shape/ShapeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="504">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/shape/Triangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+              <folding>
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/shape/FactoryPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="357">
+              <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -101,8 +107,9 @@
         <option value="$PROJECT_DIR$/src/com/example/shape/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/com/example/shape/Shape.java" />
         <option value="$PROJECT_DIR$/src/com/example/shape/Square.java" />
-        <option value="$PROJECT_DIR$/src/com/example/shape/ShapeFactory.java" />
         <option value="$PROJECT_DIR$/src/com/example/shape/FactoryPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/example/shape/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/example/shape/Triangle.java" />
       </list>
     </option>
   </component>
@@ -122,7 +129,28 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Factory_Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Factory_Pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Factory_Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Factory_Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Factory_Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Factory_Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shape" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,7 +213,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13539445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13539445" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -241,14 +269,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/shape/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/shape/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/shape/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
@@ -264,22 +285,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/shape/FactoryPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="357">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/shape/ShapeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="504">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/shape/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/shape/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/shape/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/shape/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

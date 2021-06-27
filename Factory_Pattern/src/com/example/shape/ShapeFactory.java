@@ -15,6 +15,9 @@ public class ShapeFactory{
         } else if(shapeType.equalsIgnoreCase("SQUARE")){
             return new Square();
         }
+        else if(shapeType.equalsIgnoreCase("TRIANGLE")){
+            return new Triangle();
+        }
 
         return null;
     }
