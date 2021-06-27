@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95df0824-d303-490a-bb88-fd5310cf076e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SingleObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingletonPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Pattern/src/com/example/strategy/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Pattern/src/com/example/strategy/OperationAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Pattern/src/com/example/strategy/OperationMult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Pattern/src/com/example/strategy/OperationSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Pattern/src/com/example/strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Pattern/src/com/example/strategy/StrategyPatternDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Factory_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory_Pattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Factory_Pattern/out/production/Factory_Pattern/com/example/shape/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory_Pattern/out/production/Factory_Pattern/com/example/shape/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Factory_Pattern/out/production/Factory_Pattern/com/example/shape/FactoryPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory_Pattern/out/production/Factory_Pattern/com/example/shape/FactoryPatternDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Factory_Pattern/out/production/Factory_Pattern/com/example/shape/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory_Pattern/out/production/Factory_Pattern/com/example/shape/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Factory_Pattern/out/production/Factory_Pattern/com/example/shape/ShapeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory_Pattern/out/production/Factory_Pattern/com/example/shape/ShapeFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Factory_Pattern/out/production/Factory_Pattern/com/example/shape/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory_Pattern/out/production/Factory_Pattern/com/example/shape/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Factory_Pattern/src/com/example/shape/FactoryPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory_Pattern/src/com/example/shape/FactoryPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Factory_Pattern/src/com/example/shape/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory_Pattern/src/com/example/shape/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,6 +105,9 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
