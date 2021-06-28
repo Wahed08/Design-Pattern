@@ -6,9 +6,9 @@ public class SingletonPatternDemo {
         SingleObj object1 = SingleObj.getInstance();
 
         //*****//
-        SingleObj obj = new SingleObj();
-
-        obj.getName("A type of design pattern called--");
+//        SingleObj obj = new SingleObj();
+//
+//        obj.getName("A type of design pattern called--");
         object1.showMessage();
     }
 }
